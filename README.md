@@ -23,7 +23,7 @@
 # 
 
 <p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nialled69&theme=radical" height=195>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nialled69&theme=radical" height=195 width = 470>
   <img src="https://github-readme-stats.vercel.app/api?username=Nialled69&show_icons=true&theme=radical&locale=en">
 </p>
 
