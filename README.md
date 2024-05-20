@@ -23,7 +23,7 @@
 # 
 
 <p align=center>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nialled69&show_icons=true&locale=en&layout=compact" alt="Nialled69" height=200 width=470 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nialled69&show_icons=true&locale=en&layout=compact" alt="Nialled69" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nialled69&show_icons=true&theme=radical&locale=en">
 </p>
 
