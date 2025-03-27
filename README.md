@@ -6,7 +6,7 @@
 
 <p align=center> >_< </p>
  
-- #### 👀 My field of expertise is in Full-Stack M.E.R.N development and No-SQL based Database manipulation.
+- #### 👀 My field of expertise is in Full-Stack M.E.R.N development and Flutter based applications.
   
 - #### 🌱 I’m currently learning Data Analysis and Machine Learning Algorithms.
 
@@ -18,7 +18,7 @@
   
 - #### 😄 Pronouns: He/Him
   
-- #### ⚡ Fun fact: You were just lurking ! Weren't you ? 😏
+- #### ⚡ Connect with me on [Letterboxd](https://letterboxd.com/Nialled/) 
 
 # 
 
