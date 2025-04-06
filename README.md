@@ -6,13 +6,15 @@
 
 <p align=center> >_< </p>
  
-- #### 👀 My field of expertise is in Full-Stack M.E.R.N development and Flutter based applications.
+- #### 👀 My field of expertise is in Full-Stack M.E.R.N development and Flutter based Android applications.
   
 - #### 🌱 I’m currently learning Data Analysis and Machine Learning Algorithms.
 
 - #### 🏫 I was a student of Ramakrishna Vivekananda Mission Vidyabhawan.
 
-- #### 🚡 Currently pursuing my B.Tech from RCC Institute of Information and Technology
+- #### 🚡 Currently pursuing my B.Tech from RCC Institute of Information and Technology.
+
+- #### 🐤 Qualified GATE 2025 on the CS/IT paper.
   
 - #### 📫 Hobbies - I'm a part-time Music Producer. Sometimes, I spin the disc too(for fun). I also play FPS games with good plots.
   
