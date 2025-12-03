@@ -16,7 +16,7 @@
 
 - #### 🐤 Qualified GATE 2025 on the CS/IT paper.
   
-- #### 📫 Hobbies - I'm a part-time Music Producer. Sometimes, I spin the disc too(for fun). I also play FPS games with good plots.
+- #### 📫 Hobbies - I'm a part-time Film Enthusiast. Sometimes, I spin the disc too(for fun). I also play FPS games with good plots.
   
 - #### 😄 Pronouns: He/Him
   
@@ -25,8 +25,9 @@
 # 
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nialled69&show_icons=true&locale=en&layout=compact" alt="Nialled69" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nialled69&show_icons=true&theme=radical&locale=en">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nialled69&theme=aura_dark" alt="GitHub Profile Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nialled69&theme=aura_dark" alt="Github Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nialled69&theme=aura_dark" alt="github commits">
 </p>
 
 <!---
