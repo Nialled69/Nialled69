@@ -1,6 +1,8 @@
-<p align=center><img src="https://github.com/Nialled69/Nialled69/blob/main/IMG_20200313_163033_180.jpg" height=200 width=200 ></p>
+<p align=center>
+  <img src="https://imgs.search.brave.com/tIhhUcGEKhlUzZvmNEzuyy9bCpiuJw7F8VBQlgORa20/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/dGhlLWV2b2x1dGlv/bi1vZi10aG9yZmlu/bnMtZGVzaWduLXdo/YXQtaXMtZXZlcnlv/bmVzLXYwLXlid296/bW1zeG5nZjEuanBl/Zz9mb3JtYXQ9cGpw/ZyZhdXRvPXdlYnAm/cz0xYjc3NWY4YzM1/ZjQxZGI2NTU2OTNm/YzQ4ZGYwNDkwZjA1/YjA2YWU1" alt="Thorfinn" />
+</p>
 
-<h2 align=center>👋 Hi, I’m Sarthik Dasgupta </h2>
+<h2 align=center>👋 Hi, I’m Sarthik </h2>
  
 <p align=center> People also recognise me as the great Bully Morales<p>
 
