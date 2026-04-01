@@ -16,13 +16,13 @@
 
 - #### 🚡 Currently pursuing my B.Tech from RCC Institute of Information and Technology.
 
-- #### 🐤 Qualified GATE 2025 on the CS/IT paper.
+- #### 🐤 Qualified GATE 2025 and GATE 2026 on the CS/IT paper.
   
-- #### 📫 Hobbies - I'm a part-time Film Enthusiast. Sometimes, I spin the disc too(for fun). I also play FPS games with good plots.
+- #### 📫 Hobbies - I'm a part-time Film Enthusiast. I play PC games too.
   
 - #### 😄 Pronouns: He/Him
   
-- #### ⚡ Connect with me on [Letterboxd](https://letterboxd.com/Nialled/) 
+- #### ⚡ Connect with me on [Letterboxd](https://letterboxd.com/Nialled/) and [Steam](https://steamcommunity.com/profiles/76561199037397474/)
 
 # 
 
