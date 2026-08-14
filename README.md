@@ -7,16 +7,14 @@
 <p align=center> People also recognise me as the great Bully Morales<p>
 
 <p align=center> >_< </p>
- 
-- #### 👀 My field of expertise is in Full-Stack M.E.R.N development and Flutter based Android applications.
   
-- #### 🌱 I’m currently learning Data Analysis and Machine Learning Algorithms.
+- #### 🌱 I’m currently learning Data Analysis and Machine Learning Algorithms with inclination towards Deep learning.
 
 - #### 🏫 I was a student of Ramakrishna Vivekananda Mission Vidyabhawan.
 
-- #### 🚡 Currently pursuing my B.Tech from RCC Institute of Information and Technology.
+- #### 🚡 Currently pursuing my M.Tech from Indian Statistical Institute.
 
-- #### 🐤 Qualified GATE 2025 and GATE 2026 on the CS/IT paper.
+- #### 🐤 Finished my B.Tech from RCC Institute of Information Technology
   
 - #### 📫 Hobbies - I'm a part-time Film Enthusiast. I play PC games too.
   
